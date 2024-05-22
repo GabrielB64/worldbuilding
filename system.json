@@ -1,14 +1,14 @@
 {
-  "id": "worldbuilding",
-  "version": "0.8.2",
-  "title": "Simple World-Building",
-  "url": "https://github.com/foundryvtt/worldbuilding/",
-  "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
+  "id": "Heroes of Might and Magic",
+  "version": "0.0.0",
+  "title": "Heroes of Might and Magic",
+  "url": "https://github.com/GabrielB64/Heroes-of-Might-and-Magic-System",
+  "description": "Sistema para jugar HoM&M",
   "license": "LICENSE.txt",
   "authors": [
     {
-      "name": "Atropos",
-      "url": "https://foundryvtt.com"
+      "name": "reStrike",
+      "url": "N/A"
     }
   ],
   "esmodules": ["module/simple.js"],
@@ -21,9 +21,9 @@
       "path": "lang/en.json"
     },
     {
-      "lang": "pl",
-      "name": "Polski",
-      "path": "lang/pl.json"
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
     }
   ],
   "compatibility": {
